@@ -518,6 +518,10 @@ file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 metafile = true
 
