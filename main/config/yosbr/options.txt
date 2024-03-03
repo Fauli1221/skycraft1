@@ -1,5 +1,5 @@
 version:3465
-quilt_available_resource_packs:["Moonlight Mods Dynamic Assets","black_icons","classic_icons","continuity/default","continuity/glass_pane_culling_fix","create/legacy_copper","high_contrast","lambdabettergrass/default","presencefootsteps/default_sound_pack","programmer_art","railways/green_signals","railways/legacy_semaphore","supplementaries/darker_ropes","vanilla","white_icons","file/MineLittlePony Extra-Pony-Armor-Packmasterpack.zip"]
+quilt_available_resource_packs:["Moonlight Mods Dynamic Assets","black_icons","classic_icons","continuity/default","continuity/glass_pane_culling_fix","create/legacy_copper","high_contrast","lambdabettergrass/default","presencefootsteps/default_sound_pack","programmer_art","railways/green_signals","railways/legacy_semaphore","supplementaries/darker_ropes","vanilla","white_icons","file/MineLittlePony-Extra-Pony-Armor-Pack.zip"]
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
