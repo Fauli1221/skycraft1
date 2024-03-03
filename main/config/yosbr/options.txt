@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","lambdabettergrass/default","presencefootsteps/default_sound_pack","Moonlight Mods Dynamic Assets","file/MineLittlePony Extra-Pony-Armor-Packmasterpack.zip"]
-incompatibleResourcePacks:["file/MineLittlePony Extra-Pony-Armor-Packmasterpack.zip"]
+resourcePacks:["vanilla","lambdabettergrass/default","presencefootsteps/default_sound_pack","Moonlight Mods Dynamic Assets","file/MineLittlePony-Extra-Pony-Armor-Pack.zip"]
+incompatibleResourcePacks:["file/MineLittlePony-Extra-Pony-Armor-Pack.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
