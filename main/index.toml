@@ -565,6 +565,10 @@ file = "mods/toms-storage.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/toms-trading-network.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 metafile = true
 
