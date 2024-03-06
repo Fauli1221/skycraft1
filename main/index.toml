@@ -337,6 +337,10 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 metafile = true
 
@@ -526,6 +530,10 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
 metafile = true
 
 [[files]]
