@@ -389,10 +389,6 @@ file = "mods/megane.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/memory-usage-screen.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 metafile = true
 
@@ -606,6 +602,10 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/waygl.pw.toml"
 metafile = true
 
 [[files]]
