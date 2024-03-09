@@ -1,0 +1,13 @@
+name = "WayGL"
+filename = "waygl-1.0.1+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XTzhksrl/versions/zqvsbRiE/waygl-1.0.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "64fd46f8538d3a06408d20a3a047d6c65bed0f05"
+
+[update]
+[update.modrinth]
+mod-id = "XTzhksrl"
+version = "zqvsbRiE"

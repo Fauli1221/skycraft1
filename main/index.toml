@@ -185,6 +185,10 @@ file = "mods/dawn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 metafile = true
 
@@ -385,10 +389,6 @@ file = "mods/megane.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/memory-usage-screen.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 metafile = true
 
@@ -521,7 +521,15 @@ file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
 metafile = true
 
 [[files]]
@@ -561,6 +569,10 @@ file = "mods/toms-storage.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/toms-trading-network.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 metafile = true
 
@@ -590,6 +602,10 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/waygl.pw.toml"
 metafile = true
 
 [[files]]
