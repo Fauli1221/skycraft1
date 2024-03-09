@@ -337,10 +337,6 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 metafile = true
 
