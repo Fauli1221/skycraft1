@@ -1,0 +1,13 @@
+name = "Towelette"
+filename = "Towelette-5.0.1+1.14.4-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bnesqDoc/versions/H6ibYxyq/Towelette-5.0.1%2B1.14.4-1.20.4.jar"
+hash-format = "sha1"
+hash = "f4c5529c755202a0caee60e6bc505565b7f5543c"
+
+[update]
+[update.modrinth]
+mod-id = "bnesqDoc"
+version = "H6ibYxyq"
