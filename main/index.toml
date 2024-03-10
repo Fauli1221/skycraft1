@@ -19,6 +19,12 @@ file = "config/yosbr/config/dimdoors-config.json5"
 file = "config/yosbr/config/modmenu.json"
 
 [[files]]
+file = "config/yosbr/config/openpartiesandclaims-server.toml"
+
+[[files]]
+file = "config/yosbr/config/styled-nicknames.json"
+
+[[files]]
 file = "config/yosbr/config/universal-graves/config.json"
 
 [[files]]
