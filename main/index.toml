@@ -191,10 +191,6 @@ file = "mods/dawn.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 metafile = true
 
