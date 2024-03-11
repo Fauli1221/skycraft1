@@ -587,7 +587,7 @@ file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/unicopia-blockus.pw.toml"
+file = "mods/unicopia-blockus-addon.pw.toml"
 metafile = true
 
 [[files]]
