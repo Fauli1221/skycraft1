@@ -59,6 +59,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 metafile = true
 
@@ -236,6 +240,10 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
 metafile = true
 
 [[files]]
@@ -600,6 +608,10 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
 metafile = true
 
 [[files]]
