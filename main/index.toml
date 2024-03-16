@@ -263,6 +263,10 @@ file = "mods/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 metafile = true
 
