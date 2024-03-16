@@ -190,11 +190,11 @@
 			#Prefix "anything$" is the same as no prefix but allows interaction with any item held in the hand. Please make sure that no item does anything bad when used at a block with such an exception.
 			#Add the same block/tag multiple times to use multiple prefixes. Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:lever", "minecraft:*_button", "break$minecraft:*_button", "break$minecraft:(*_|)sand"]
-			forcedBlockProtectionExceptionList = ["minecraft:crafting_table", "toms_trading_network:vending_machine"]
+			forcedBlockProtectionExceptionList = ["minecraft:crafting_table", "toms_trading_network:vending_machine", "universal_graves:grave", "#minecraft:doors", "#dimdoors:dimdoors", "Furniture{#minecraft:beds, #handcrafted:benches, #handcrafted:bowls, #handcrafted:chairs, #handcrafted:couches, #handcrafted:fancy_beds}"]
 			#Entities that can bypass all block protection. Supports entity type tags.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:(v|p)illager", "minecraft:*illager", "#minecraft:raiders"]
-			entitiesAllowedToGrief = ["minecraft:sheep"]
+			entitiesAllowedToGrief = ["minecraft:sheep", "Villagers{minecraft:villager}"]
 			#Custom groups of items that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple items and item tags.
 			#Each group creates a player config option for the right-click use of the group items. The format for an item group is <group ID>{<items/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-stuff98{minecraft:(writable|written)_book, minecraft:*_book, #minecraft:compasses}".
