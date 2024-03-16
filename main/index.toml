@@ -195,6 +195,10 @@ file = "mods/creativecore.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dawn.pw.toml"
 metafile = true
 
@@ -515,6 +519,10 @@ file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/server-country-flags.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
@@ -540,6 +548,10 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
 metafile = true
 
 [[files]]
