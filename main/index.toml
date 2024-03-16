@@ -13,6 +13,9 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 file = "config/yosbr/config/bigpony.json"
 
 [[files]]
+file = "config/yosbr/config/cpm.json"
+
+[[files]]
 file = "config/yosbr/config/dimdoors-config.json5"
 
 [[files]]
@@ -195,6 +198,10 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
 metafile = true
 
 [[files]]
