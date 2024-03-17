@@ -13,6 +13,78 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 file = "config/yosbr/config/bigpony.json"
 
 [[files]]
+file = "config/yosbr/config/bluemap/core.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/end.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/nether.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_10.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_11.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_12.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_13.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_14.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_15.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_16.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_2.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_3.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_4.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_5.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_6.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_7.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_8.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/overworld_9.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/plugin.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/storages/file.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/storages/sql.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/webapp.conf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/webserver.conf"
+
+[[files]]
 file = "config/yosbr/config/dimdoors-config.json5"
 
 [[files]]
@@ -86,6 +158,10 @@ file = "mods/blockus.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 metafile = true
 
@@ -119,6 +195,10 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/computer-cartographer.pw.toml"
 metafile = true
 
 [[files]]
@@ -211,10 +291,6 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dynmap.pw.toml"
 metafile = true
 
 [[files]]
@@ -463,6 +539,10 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/opac-bluemap-integration.pw.toml"
 metafile = true
 
 [[files]]
