@@ -214,6 +214,10 @@ file = "mods/double-doors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dynmap.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 metafile = true
 
