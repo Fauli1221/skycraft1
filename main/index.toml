@@ -22,6 +22,9 @@ file = "config/yosbr/config/modmenu.json"
 file = "config/yosbr/config/openpartiesandclaims-server.toml"
 
 [[files]]
+file = "config/yosbr/config/quilt_loading_screen.json"
+
+[[files]]
 file = "config/yosbr/config/styled-nicknames.json"
 
 [[files]]
@@ -492,6 +495,10 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
