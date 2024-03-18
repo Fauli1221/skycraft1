@@ -154,6 +154,10 @@ file = "mods/big-pony.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/blockus.pw.toml"
 metafile = true
 
