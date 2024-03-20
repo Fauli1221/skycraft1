@@ -1,0 +1,8 @@
+name = "opac-bluemap-integration"
+filename = "opac-bluemap-integration-1.0.4.jar"
+side = "server"
+
+[download]
+url = "https://github.com/imaron85/opac-bluemap-integration/releases/download/Release2/opac-bluemap-integration-1.0.4.jar"
+hash-format = "sha256"
+hash = "6588ef0992c480599733e356a6350ef3af79964bb9771a23f3f518a157b842ed"
