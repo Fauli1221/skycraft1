@@ -422,6 +422,10 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 metafile = true
 
