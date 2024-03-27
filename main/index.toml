@@ -238,7 +238,7 @@ file = "mods/create-enchantment-industry-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
+file = "mods/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
