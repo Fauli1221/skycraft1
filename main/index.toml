@@ -238,6 +238,10 @@ file = "mods/create-enchantment-industry-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-extended-cogwheels-unofficial.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 metafile = true
 
@@ -339,10 +343,6 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/extended-cogwheels.pw.toml"
 metafile = true
 
 [[files]]
