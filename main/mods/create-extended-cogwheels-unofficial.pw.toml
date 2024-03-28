@@ -1,0 +1,13 @@
+name = "Create: Extended Cogwheels Unofficial"
+filename = "create_ex_gears_unofficial-2.1.2-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe9c7537d896adb97e4da926f377e74037fe1422"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5208020
+project-id = 991194
