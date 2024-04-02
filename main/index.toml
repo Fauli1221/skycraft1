@@ -578,6 +578,10 @@ file = "mods/patchouli.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pick-your-poison.pw.toml"
 metafile = true
 
@@ -747,6 +751,10 @@ metafile = true
 
 [[files]]
 file = "mods/waygl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/white_rabbit.pw.toml"
 metafile = true
 
 [[files]]
