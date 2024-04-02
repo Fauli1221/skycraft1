@@ -358,7 +358,7 @@ file = "mods/fallingtree.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-refabricated.pw.toml"
+file = "mods/farmers-delight-fabric.pw.toml"
 metafile = true
 
 [[files]]
