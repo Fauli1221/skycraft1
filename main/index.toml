@@ -522,6 +522,10 @@ file = "mods/mixintrace.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modern-farlands-mod.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 metafile = true
 
