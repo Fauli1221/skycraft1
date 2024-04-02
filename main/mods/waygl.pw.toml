@@ -11,3 +11,7 @@ hash = "bd209688ea83109b0a20d479f238adfb61c80fa7"
 [update.modrinth]
 mod-id = "XTzhksrl"
 version = "FVhZg62f"
+
+[option]
+optional = true
+description = "adds compatebility to wayland on linux"
