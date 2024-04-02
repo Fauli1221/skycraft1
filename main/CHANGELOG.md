@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.1.4](https://github.com/Fauli1221/skycraft1/compare/v1.1.3...v1.1.4) (2024-04-02)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.1.4 ([25de242](https://github.com/Fauli1221/skycraft1/commit/25de24249fd1934cdaa27b5b0858e826f0e7b618))
+
+## [1.1.3](https://github.com/Fauli1221/skycraft1/compare/v1.1.2...v1.1.3) (2024-03-17)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.1.3 ([28fd861](https://github.com/Fauli1221/skycraft1/commit/28fd861c27135299346fc29b71be3bdacbf6b5ea))
+
+## [1.1.2](https://github.com/Fauli1221/skycraft1/compare/v1.1.1...v1.1.2) (2024-03-17)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.1.2 ([d08fd2b](https://github.com/Fauli1221/skycraft1/commit/d08fd2b484c35344e7752d3fdc88d301f4842071))
+
 ## [1.1.1](https://github.com/Fauli1221/skycraft1/compare/v1.1.0...v1.1.1) (2024-03-09)
 
 
