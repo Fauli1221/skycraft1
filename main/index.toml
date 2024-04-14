@@ -222,10 +222,6 @@ file = "mods/create-air-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 metafile = true
 
@@ -635,6 +631,10 @@ metafile = true
 
 [[files]]
 file = "mods/server-country-flags.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
 metafile = true
 
 [[files]]
