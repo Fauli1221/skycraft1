@@ -1,13 +1,13 @@
 name = "Create: Extended Cogwheels"
-filename = "extendedgears-2.1.0-1.20.1-0.5.1.c-fabric.jar"
+filename = "extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qO4lsa4Y/versions/YqweXuwL/extendedgears-2.1.0-1.20.1-0.5.1.c-fabric.jar"
+url = "https://cdn.modrinth.com/data/qO4lsa4Y/versions/22pR1H3P/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar"
 hash-format = "sha1"
-hash = "466355b19710ed79c25018fa33c0c9be5952c370"
+hash = "521279ad168e61f864debdb3eebfa3059e396a63"
 
 [update]
 [update.modrinth]
 mod-id = "qO4lsa4Y"
-version = "YqweXuwL"
+version = "22pR1H3P"

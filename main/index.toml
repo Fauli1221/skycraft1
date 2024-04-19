@@ -234,7 +234,7 @@ file = "mods/create-enchantment-industry-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
+file = "mods/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ file = "mods/fallingtree.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
+file = "mods/farmers-delight-refabricated.pw.toml"
 metafile = true
 
 [[files]]
