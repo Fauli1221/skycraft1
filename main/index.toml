@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 
 [[files]]
@@ -651,10 +654,6 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
