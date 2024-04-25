@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 
 [[files]]
@@ -97,6 +100,12 @@ file = "config/yosbr/config/openpartiesandclaims-server.toml"
 file = "config/yosbr/config/quilt_loading_screen.json"
 
 [[files]]
+file = "config/yosbr/config/servercore/config.yml"
+
+[[files]]
+file = "config/yosbr/config/servercore/optimizations.yml"
+
+[[files]]
 file = "config/yosbr/config/styled-nicknames.json"
 
 [[files]]
@@ -166,6 +175,10 @@ file = "mods/bluemap.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 metafile = true
 
@@ -222,10 +235,6 @@ file = "mods/create-air-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 metafile = true
 
@@ -238,7 +247,7 @@ file = "mods/create-enchantment-industry-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
+file = "mods/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -358,7 +367,7 @@ file = "mods/fallingtree.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
+file = "mods/farmers-delight-refabricated.pw.toml"
 metafile = true
 
 [[files]]
@@ -411,10 +420,6 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs.pw.toml"
 metafile = true
 
 [[files]]
@@ -522,6 +527,10 @@ file = "mods/mixintrace.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modern-farlands-mod.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 metafile = true
 
@@ -571,6 +580,10 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
 metafile = true
 
 [[files]]
@@ -634,6 +647,10 @@ file = "mods/server-country-flags.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
@@ -647,10 +664,6 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
@@ -743,6 +756,10 @@ metafile = true
 
 [[files]]
 file = "mods/waygl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/white_rabbit.pw.toml"
 metafile = true
 
 [[files]]

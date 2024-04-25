@@ -1,0 +1,23 @@
+{
+    "schema_version": 1,
+    "overrides": [
+        {
+            "path": "<mods>/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar",
+            "depends": {
+                "remove": {
+                    "id": "fabricloader",
+                    "versions": "*"
+                }
+            }
+        },
+        {
+            "path": "<mods>/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
+            "breaks": {
+                "remove": {
+                    "id": "createdieselgenerators",
+                    "versions": "*"
+                }
+            }
+        }
+    ]
+}
