@@ -279,10 +279,6 @@ file = "mods/create-structures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 metafile = true
 
