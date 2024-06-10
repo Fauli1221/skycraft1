@@ -143,6 +143,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 metafile = true
 
@@ -196,6 +200,14 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
 metafile = true
 
 [[files]]
@@ -352,6 +364,10 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
 metafile = true
 
 [[files]]
