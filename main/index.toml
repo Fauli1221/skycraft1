@@ -155,6 +155,10 @@ file = "mods/badpackets.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 metafile = true
 
@@ -168,6 +172,10 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blahaj.pw.toml"
 metafile = true
 
 [[files]]
@@ -223,11 +231,19 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cluttered.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/computer-cartographer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connectible_chains.pw.toml"
 metafile = true
 
 [[files]]
@@ -676,6 +692,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys-fabric.pw.toml"
 metafile = true
 
 [[files]]
