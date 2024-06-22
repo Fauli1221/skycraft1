@@ -143,11 +143,19 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
 metafile = true
 
 [[files]]
@@ -164,6 +172,10 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blahaj.pw.toml"
 metafile = true
 
 [[files]]
@@ -199,6 +211,14 @@ file = "mods/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 metafile = true
 
@@ -211,11 +231,19 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cluttered.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/computer-cartographer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connectible_chains.pw.toml"
 metafile = true
 
 [[files]]
@@ -276,10 +304,6 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-track-map.pw.toml"
 metafile = true
 
 [[files]]
@@ -356,6 +380,10 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
 metafile = true
 
 [[files]]
@@ -456,6 +484,10 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libzoomer.pw.toml"
 metafile = true
 
 [[files]]
@@ -567,6 +599,10 @@ file = "mods/noisium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/opac-bluemap-integration.pw.toml"
 metafile = true
 
@@ -664,6 +700,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -832,10 +872,6 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]
