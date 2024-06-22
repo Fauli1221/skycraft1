@@ -487,6 +487,10 @@ file = "mods/libipn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libzoomer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 metafile = true
 
@@ -592,6 +596,10 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
 metafile = true
 
 [[files]]
@@ -864,10 +872,6 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]
