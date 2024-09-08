@@ -33,8 +33,8 @@
 	},
 	"limbo": {
 		"hardcoreLimbo": false,
-		"limboReturnDistance": 50,
-		"limboBlocksCorruptingOverworldAmount": 0,
+		"limboReturnDistance": 20000,
+		"limboBlocksCorruptingOverworldAmount": 5.0,
 		"worldsLeadingToLimbo": {
 			"list": [],
 			"blacklist": false
@@ -49,14 +49,25 @@
 	"doors": {
 		"closeDoorBehind": true,
 		"doorList": {
-			"mode": "DISABLE",
+			"mode": "ENABLE",
 			"doors": [
-				"ad_astra:steel_door",
-				"templates:iron_door",
-				"ad_astra:strophar_door",
-				"ad_astra:aeronos_door",
-				"templates:door",
-				"ad_astra:glacian_door"
+				"dimdoors:gold_door",
+				"dimdoors:stone_door",
+				"dimdoors:quartz_door",
+				"minecraft:cherry_door",
+				"minecraft:bamboo_door",
+				"minecraft:birch_door",
+				"minecraft:jungle_door",
+				"minecraft:iron_door",
+				"minecraft:crimson_door",
+				"minecraft:oak_door",
+				"minecraft:acacia_door",
+				"minecraft:spruce_door",
+				"minecraft:mangrove_door",
+				"minecraft:warped_door",
+				"minecraft:dark_oak_door",
+				"dimdoors:amalgam_door",
+				"dimdoors:driftwood_door"
 			]
 		},
 		"placeRiftsInCreativeMode": true
