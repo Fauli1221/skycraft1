@@ -284,7 +284,6 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -411,7 +410,6 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "c102c17148affae740d8152d7a9123b79a808a3f6eb5734791e22cde43cf19a4"
 metafile = true
 
 [[files]]
@@ -757,7 +755,6 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "6ce5b84c9c00519a748d14e51313725a6783939baca49ac5e92abe8163eb1da2"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Blockus"
-filename = "blockus-2.7.18+1.20.1.jar"
+filename = "blockus-2.7.19+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zFiY2Go0/versions/21JjOOYj/blockus-2.7.18%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/zFiY2Go0/versions/6JUrgXXz/blockus-2.7.19%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "e6fee4017f090f73581fb2054b7ee1e04bf7622c"
+hash = "80de55555cbabf5e893aace3803c54e6dc3990a4"
 
 [update]
 [update.modrinth]
 mod-id = "zFiY2Go0"
-version = "21JjOOYj"
+version = "6JUrgXXz"
