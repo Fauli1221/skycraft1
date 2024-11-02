@@ -1,13 +1,13 @@
 name = "Magic mirror"
-filename = "magicmirror-1.1.1+1.20.1.jar"
+filename = "magicmirror-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1d2CrxHN/versions/kxeRyWhd/magicmirror-1.1.1%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "7798524ed4d7fae0492950e4917e04281facab67"
+url = "https://cdn.modrinth.com/data/1d2CrxHN/versions/hwcjoVWs/magicmirror-1.1.1.jar"
+hash-format = "sha512"
+hash = "80efba7e570455ae661557351157c9ab8953a407566adc69815286d4fb693a80c836844569e40371fdbd3b4ed2cef339cf888176dc96f3b0945fdf0163e5e8b0"
 
 [update]
 [update.modrinth]
 mod-id = "1d2CrxHN"
-version = "kxeRyWhd"
+version = "hwcjoVWs"
